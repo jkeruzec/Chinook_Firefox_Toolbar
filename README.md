@@ -3,6 +3,8 @@ Chinook_Firefox_Toolbar
 
 Chinook_Firefox_Toolbar
 
+Created from HelloWorld Firefox Extension Skeleton 
+
 URL Firefox debug with Firebug :
 chrome://browser/content/browser.xul
 
